@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7990713651489411440}
-  - component: {fileID: 8073076640983844149}
+  - component: {fileID: 2577744708177913307}
   m_Layer: 0
   m_Name: CeilingLight
   m_TagString: Untagged
@@ -35,7 +35,7 @@ Transform:
   - {fileID: 7758286229132912613}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &8073076640983844149
+--- !u!95 &2577744708177913307
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -45,7 +45,7 @@ Animator:
   m_GameObject: {fileID: 719396404837570517}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: a384c53f50b359745a76219d97a38459, type: 2}
+  m_Controller: {fileID: 9100000, guid: cbcd2b6194bbfc046be334749c59f6c5, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
